@@ -3,6 +3,6 @@ case_assessment:
   outputs:
     dev:
       type: duckdb
-      path: /Users/nikitaprokudin/Documents/repository/case-assesment-funda/assignment.duckdb
+      path: /Users/nikitaprokudin/Documents/repository/case-assesment-funda/
       schema: main
       threads: 1

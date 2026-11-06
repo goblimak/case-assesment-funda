@@ -1,0 +1,8 @@
+case_assessment:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /Users/nikitaprokudin/Documents/repository/case-assesment-funda/assignment.duckdb
+      schema: main
+      threads: 1

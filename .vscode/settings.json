@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "Funda-duckdb",
+            "database": "${workspaceFolder:case-assesment-funda}/assignment.duckdb"
+        }
+    ],
+    "sqltools.useNodeRuntime": false
+}
